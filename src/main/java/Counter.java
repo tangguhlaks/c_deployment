@@ -49,8 +49,11 @@ public class Counter {
 		return count;
 	}
 
-	public int getCounPlusOnet() {
+	public int getCounPlusOne() {
 		return count+1;
 	}
-	
+	public int getCounMinusOne() {
+		return count-1;
+	}
+
 }
