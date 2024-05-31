@@ -48,5 +48,9 @@ public class Counter {
 	public int getCount() {
 		return count;
 	}
+
+	public int getCounPlusOnet() {
+		return count+1;
+	}
 	
 }
